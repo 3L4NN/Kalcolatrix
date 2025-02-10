@@ -13,7 +13,7 @@
   background-color: #eee;
   border: 3px solid #bbb;
   width: 230px;
-  border-radius: 5px;
+  border-radius: 17px;
 }
 /*TITULO*/
 .div_nome {
@@ -60,4 +60,5 @@
   padding: 5px;
   font-family: 'monospace', monospace;
   font-size: larger;
+  border-radius: 5px;
 }
